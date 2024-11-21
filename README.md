@@ -1,7 +1,7 @@
 
 ## 📜 À propos de moi  
 Passionné d’histoire nordique et de technologies modernes, je suis actuellement en master Science des données et Histoire à l'université Paris 1 - Panthéon Sorbonne.
-Je travaille actuellement sur un projet de recherche qui vise à cartographier les déplacements navals des normands au IXe siècle grâce aux enseignements du [PIREH](https://github.com/PirehP1)). 
+Je travaille sur un projet de recherche qui vise à cartographier les déplacements navals des normands au IXe siècle grâce aux enseignements du [PIREH](https://github.com/PirehP1)). 
 
 Parallèlement, je mets mes compétences en management et en informatique pour maximiser les profits d'une grande entreprise capitaliste et américaine de fast-food, qui a le mérite de me verser un salaire d'assistant manager décent. 
 
